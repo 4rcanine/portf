@@ -216,18 +216,6 @@ text-decoration: none;
  color: #ff6600;
 }
 
-@media () {
- .main-nav .dropdown-slide .dropdown-menu {
-   -webkit-transform: none;
-           transform: none;
-   left: auto;
-   position: relative;
-      
-   opacity: 1;
-   visibility: visible;
- }
-}
-
  .thumb{
            margin-bottom: 30px;
        }
@@ -354,4 +342,6 @@ img {
   width: 500px;
   margin: auto;
   padding: 10px;
+  background-color: #6addfa3a;
+  background-image: url(white-crumpled-paper-texture-background.jpg);
 }
